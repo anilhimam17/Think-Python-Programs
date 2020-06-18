@@ -1,2 +1,2 @@
-# Think-Python-Programs
-A set of solutions to all the important programs in the book think python
+# Think Python Programs
+ Programs corresponding to the exercises of the book, think python by o'really
